@@ -1,0 +1,17 @@
+.user{
+    border: 1px solid blueviolet;
+    /* box-shadow: 10px 10px  8px blueviolet; */
+    /* box-shadow: -10px -10px  8px blueviolet; */
+    width: 50%;
+    margin: 30px auto;
+    padding: 0px 30px 20px;
+    border-radius: 20px;
+    background-color:rgb(209, 230, 172);
+    color: rgb(61, 35, 4);
+}
+
+#ul{
+    margin-top: 0px;
+    color: rgb(209, 148, 69);
+    text-align: center;
+}

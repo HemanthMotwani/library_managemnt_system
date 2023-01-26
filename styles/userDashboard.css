@@ -1,0 +1,59 @@
+.learning_lab{
+    width: 70%;
+    height: 200px;
+    padding: 30px;
+    background-color: white;
+    margin: auto;
+    margin-top: 120px;
+}
+.linkedin_learing{
+    height: 350px;
+    width: 74%;
+    margin: auto;
+    margin-top: 120px;
+    background-image: url('https://oxb-prd-cdn-01.azureedge.net/mediacontainer/medialibraries/oxfordbrookes/documents/untitled-design-11.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.linkedin_text{
+    height: 230px;
+    width: 70%;
+    background-color: white;
+    position:relative;
+    top: 250px;
+    margin: auto;
+    padding: 30px;
+}
+.linkedin_text button{
+    position: relative;
+    top: 8px;
+    left: 87%;
+    padding: 10px 20px;
+    /* font-size: large; */
+    background-color: rgb(192, 230, 246);
+    border: 0px;
+    outline: none;
+}
+.linkedin_text button:hover{
+    background-color: #72bfee;
+}
+.bottom_text {
+    height: 200px;
+    background-color: #72bfee;
+    color: white;
+    margin-top: 330px;
+    padding: 100px;
+    text-align: center;
+}
+.bottom_text button{
+    padding: 10px 20px;
+    font-size: large;
+    background-color: white;
+    border: 0px;
+    outline: none;
+    
+}
+.bottom_text button:hover{
+    background-color: rgb(181, 181, 181);
+    
+}

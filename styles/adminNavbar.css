@@ -1,0 +1,31 @@
+.contents li{
+    display: inline;
+    margin: 0px 20px;
+    color: rgb(243, 229, 31);
+}
+.contents a{
+    text-decoration: none;
+    color: black;
+    font-size: large;
+    padding: 5px;
+    color: white;
+}
+.admin_navbar{
+    background-color:rgb(4, 59, 29);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 100px;
+    color: white;
+}
+.logout button{
+    padding:7px 20px;
+    border-style: none;
+    border-radius: 20px;
+    color:rgb(203, 247, 8);
+    font-size:large;
+    background-color: rgb(104, 67, 23);
+}
+.contents li:hover{
+    background-color: rgb(143, 114, 79);
+}
